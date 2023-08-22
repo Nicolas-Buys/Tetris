@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\games\Games16\01 Tetris\main.cpp(36,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\games\Games16\01 Tetris\main.cpp(48,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\games\Games16\01 Tetris\main.cpp(70,56): warning C4305: '=': truncation from 'double' to 'float'
+C:\games\Games16\01 Tetris\main.cpp(124,30): warning C4305: '=': truncation from 'double' to 'float'
+C:\games\Games16\01 Tetris\main.cpp(135,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\games\Games16\01 Tetris\main.cpp(135,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\games\Games16\01 Tetris\main.cpp(143,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\games\Games16\01 Tetris\main.cpp(143,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  new.vcxproj -> C:\Users\Nicol\source\repos\Tetris\Debug\new.exe
